@@ -1,0 +1,6 @@
+#map {
+  height: 100%; /* 100% of the viewport height */
+  width: 100%; /* 100% of the viewport width */
+  margin: 0; 
+  padding: 0; 
+}
